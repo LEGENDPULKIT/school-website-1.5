@@ -1,0 +1,64 @@
+h3 {
+    color: aqua;
+    
+}
+
+
+.header
+{
+    background-color: #fff8dc;
+    display: flex;
+
+    justify-content: flex-start;
+}
+
+.center
+{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+     
+}
+
+.item
+{
+    border: solid;
+    text-indent: 3mm;
+  
+}
+
+.photo
+{
+    display: flex;
+
+    flex-wrap: wrap;
+    background-color: #fff8dc;
+}
+
+body{
+    background-color: #A52A2A;
+}
+p,h2{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.about
+{
+    
+    background-color: #fff8dc;
+
+    
+
+}
+
+.academics
+{
+    background-color: #fff8dc;
+}
+
+.contact
+{
+    background-color: #fff8dc;
+}
